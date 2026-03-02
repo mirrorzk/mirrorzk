@@ -43,18 +43,18 @@ Industry Professor of Cryptography, [Shanghai Jiao Tong University Suzhou Instit
 【Science Advances】         [Limitations of a study on the network of developers and correlated returns of cryptocurrencies](https://science.org/doi/10.1126/sciadv.abd2204)
 
 
-## Public Work                                             
+## 💖 Public Work                                             
 
 [ZK Bug Tracker](https://github.com/0xPARC/zk-bug-tracker)    |      [AA coding security library](https://github.com/Mirror-Tang/Account-abstraction-coding-security-library)   |      [zkLogin](https://github.com/xarlabs/zkLogin/)
 
-### Works by students under my guidance
+## 🧑‍🏫 Works by students under my guidance
 
 【arXiv】                    [Evaluation of ChatGPT's Smart Contract Auditing Capabilities Based on Chain of Thought](https://arxiv.org/pdf/2402.12023.pdf) Yuying Du  | UC Berkeley
 
-【ACM Conference】               [STFN: Spatio-Temporal Fusion Network to Detect Ethereum Phishing Scams](https://dl.acm.org/doi/10.1145/3650400.3650499) Yufeng Xu  | UC Berkeley
+【EITCE'23】               [STFN: Spatio-Temporal Fusion Network to Detect Ethereum Phishing Scams](https://dl.acm.org/doi/10.1145/3650400.3650499) Yufeng Xu  | UC Berkeley
 
 
-## Contact
+## 🌐 Contact
 
 📥 xueyantang@acm.org    
 📞 +1 (779) 277-7777    
