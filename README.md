@@ -1,5 +1,5 @@
 [![ethereum](/ethereum.jpg "ethereum")](#)
-# Ethereum is changing the world.
+# If I have seen further it is by standing on the shoulders of giants.
 
 ## 🐳 About Me 
 
