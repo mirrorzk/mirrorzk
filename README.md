@@ -3,19 +3,17 @@
 
 ## 🐳 About Me 
 
-I'm a blockchain scientist dedicated to researching complex engineering implementations and security issues in blockchain. My areas of focus include the security of smart contracts and zero-knowledge proof circuits, the performance of distributed systems, and the data and economic analysis of fee markets. I am particularly interested in understanding the intricate interactions between social and technical aspects within collective decision-making in distributed ecosystems. Additionally, I strive to achieve a harmonious balance between performance, security, and technical freedom in distributed ecosystems. Secure and data-driven decisions have many applications in distributed ecosystems; they can help prevent data verification errors, service disruptions or rollbacks, and theft of funds. Moreover, they can enhance the sustainability of economic models to address significant challenges. Based on this, I founded [Salus](https://salusec.io/).Earning my PhD degree at [UBA](http://www.derecho.uba.ar/).  Prev- [MIT](https://micromasters.mit.edu/learner/MirrorT ) | [BJTU](https://www.bjtu.edu.cn/)
+I research the engineering and security foundations of blockchain systems, with a focus on smart contract correctness, zero-knowledge proof validation, distributed performance, and fee market economics. My [research on ZK security](https://eprint.iacr.org/2024/514) has been supported by a [grant from the Ethereum Foundation](https://blog.ethereum.org/2024/06/25/zk-grants-round-announce). Based on this work, I founded [ZEROBASE](https://zerobase.pro/) to bring verifiable computation into financial infrastructure, and I also serve as Co-Founder & CEO of [Salus Security](https://salusec.io/), a blockchain security firm.
+
+🐆[UBA](http://www.derecho.uba.ar/) PhD - CyberSecurity Law   
+🦫[MIT](https://micromasters.mit.edu/letter/program/b7a68597-4bc0-4a09-97a3-9ad3bab867a1 ) MicroMaster - DataScience   
+[Harvard](https://github.com/mirrorzk/math ) Bachelor - Mathematics 
+
 ## 😸 Teach
- [![SJTU](/logo.png "SJTU")](#)
 
-I have been approved by the Academic Committee of Shanghai Jiao Tong University to serve as a Industry Professor at the [Suzhou Institute of Artificial Intelligence](https://szai.sjtu.edu.cn) of Shanghai Jiao Tong University starting from July 2024.6 - 2026.2
 
-#### My research areas include:
+Industry Professor of Cryptography, [Shanghai Jiao Tong University Suzhou Institute of Artificial Intelligence](https://szai.sjtu.edu.cn) |  2024.6 - 2026.2
 
-Deep learning for smart contract code detection
-
-Zero-knowledge proof circuit security
-
-GPU-based privacy computing networks
 
 ## ✨ Research
 
@@ -46,7 +44,7 @@ GPU-based privacy computing networks
 【Science Advances】         [Limitations of a study on the network of developers and correlated returns of cryptocurrencies](https://science.org/doi/10.1126/sciadv.abd2204)
 
 
-## ✅ Public Work                                             
+## Public Work                                             
 
 [ZK Bug Tracker](https://github.com/0xPARC/zk-bug-tracker)    |      [AA coding security library](https://github.com/Mirror-Tang/Account-abstraction-coding-security-library)   |      [zkLogin](https://github.com/xarlabs/zkLogin/)
 
@@ -56,13 +54,12 @@ GPU-based privacy computing networks
 
 【ACM Conference】               [STFN: Spatio-Temporal Fusion Network to Detect Ethereum Phishing Scams](https://dl.acm.org/doi/10.1145/3650400.3650499) Yufeng Xu  | UC Berkeley
 
-## 💴 Investment
 
-Babylon | BounceBit | EthStorage | NAVI | Ora | Polyhedra | Ultiverse | SpaceID | GoPlus | Sahara | Salus | Seismic | Solv | StarSharks 
-## 📧 Contact
+## Contact
 
-777728@gmail.com
-
+📥 xueyantang@acm.org    
+📞 +1 (779) 277-7777    
+🏡 99 Wall Street, New York, NY 10005, USA
 
 
 
