@@ -3,11 +3,10 @@
 
 ## 🐳 About Me 
 
-I research the engineering and security foundations of blockchain systems, with a focus on smart contract correctness, zero-knowledge proof validation, distributed performance, and fee market economics. My [research on ZK security](https://eprint.iacr.org/2024/514) has been supported by a [grant from the Ethereum Foundation](https://blog.ethereum.org/2024/06/25/zk-grants-round-announce). Based on this work, I founded [ZEROBASE](https://zerobase.pro/) to bring verifiable computation into financial infrastructure, and I also serve as Co-Founder & CEO of [Salus Security](https://salusec.io/), a blockchain security firm.
+I research the engineering and security foundations of blockchain systems, with a focus on smart contract correctness, zero-knowledge proof validation, distributed performance, and fee market economics. My [research on ZK security](https://eprint.iacr.org/2024/514) has been supported by a [grant from the Ethereum Foundation](https://blog.ethereum.org/2024/06/25/zk-grants-round-announce). Based on this work, I founded [ZEROBASE](https://zerobase.pro/) to bring verifiable computation into financial infrastructure, and I also serve as Co-Founder & CEO of [Salus Security](https://salusec.io/), a blockchain security firm. 
 
-🐆[UBA](http://www.derecho.uba.ar/) PhD - CyberSecurity Law   
-🦫[MIT](https://micromasters.mit.edu/letter/program/b7a68597-4bc0-4a09-97a3-9ad3bab867a1 ) MicroMaster - DataScience   
-[Harvard](https://github.com/mirrorzk/math ) Bachelor - Mathematics 
+Now [math](https://github.com/mirrorzk/math)@Harvard
+
 
 ## 😸 Teach
 
