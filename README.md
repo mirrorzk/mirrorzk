@@ -5,7 +5,7 @@
 
 I research the engineering and security foundations of blockchain systems, with a focus on smart contract correctness, zero-knowledge proof validation, distributed performance, and fee market economics. My [research on ZK security](https://eprint.iacr.org/2024/514) has been supported by a [grant from the Ethereum Foundation](https://blog.ethereum.org/2024/06/25/zk-grants-round-announce). Based on this work, I founded [ZEROBASE](https://zerobase.pro/) to bring verifiable computation into financial infrastructure, and I also serve as Co-Founder & CEO of [Salus Security](https://salusec.io/), a blockchain security firm. 
 
-Now [Mathematics](https://github.com/mirrorzk/math)@Harvard
+📚 [Math](https://github.com/mirrorzk/math)@Harvard
 
 
 ## 😸 Teach
